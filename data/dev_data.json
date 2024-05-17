@@ -1,0 +1,922 @@
+[
+    {
+        "message_id": "NAT_13249",
+        "message": "Moderator : -->>Do you believe -->>climate change is an existential crisis ? . . -->>Pence : -->>Kamala Harris and Joe Biden are going to raise taxes ! . . -->>\ud83e\udd23\ud83e\udd23",
+        "thought_label": [],
+        "dissonance_pairs": [
+            {
+                "du1": 1,
+                "du2": 2,
+                "disso_label": "N"
+            },
+            {
+                "du1": 1,
+                "du2": 4,
+                "disso_label": "N"
+            },
+            {
+                "du1": 2,
+                "du2": 4,
+                "disso_label": "N"
+            },
+            {
+                "du1": 4,
+                "du2": 5,
+                "disso_label": "D"
+            }
+        ]
+    },
+    {
+        "message_id": "NAT_13254",
+        "message": "Now I\u2019m gon na rail on the\u2019 left\u2019 . -->>These mother fuckers are trying to give you healthcare . -->>Healthcare ? ! -->>You mean I get to go to a doctor -->>when I get sick ? ! -->>How much will it cost me ? -->>Wait , less than I already would have to pay ? ! -->>What about taxes , asshole ? !",
+        "thought_label": [],
+        "dissonance_pairs": [
+            {
+                "du1": 4,
+                "du2": 6,
+                "disso_label": "N"
+            },
+            {
+                "du1": 5,
+                "du2": 6,
+                "disso_label": "C"
+            },
+            {
+                "du1": 6,
+                "du2": 7,
+                "disso_label": "C"
+            },
+            {
+                "du1": 1,
+                "du2": 2,
+                "disso_label": "C"
+            },
+            {
+                "du1": 1,
+                "du2": 4,
+                "disso_label": "C"
+            },
+            {
+                "du1": 2,
+                "du2": 6,
+                "disso_label": "C"
+            },
+            {
+                "du1": 1,
+                "du2": 3,
+                "disso_label": "D"
+            },
+            {
+                "du1": 2,
+                "du2": 3,
+                "disso_label": "C"
+            },
+            {
+                "du1": 3,
+                "du2": 7,
+                "disso_label": "N"
+            }
+        ]
+    },
+    {
+        "message_id": "NAT_13294",
+        "message": "Call me what you want , -->>vote Trump -->>if you love America . -->>Vote Biden -->>if you hate America .",
+        "thought_label": [],
+        "dissonance_pairs": [
+            {
+                "du1": 1,
+                "du2": 3,
+                "disso_label": "D"
+            },
+            {
+                "du1": 2,
+                "du2": 4,
+                "disso_label": "D"
+            },
+            {
+                "du1": 0,
+                "du2": 2,
+                "disso_label": "N"
+            },
+            {
+                "du1": 0,
+                "du2": 3,
+                "disso_label": "C"
+            },
+            {
+                "du1": 0,
+                "du2": 4,
+                "disso_label": "N"
+            }
+        ]
+    },
+    {
+        "message_id": "NAT_13329",
+        "message": "Now a days -->>when I get the chance -->>to sleep -->>that \u2019s all I do -->>\ud83d\ude2d\ud83d\ude05",
+        "thought_label": [],
+        "dissonance_pairs": [
+            {
+                "du1": 0,
+                "du2": 2,
+                "disso_label": "N"
+            },
+            {
+                "du1": 1,
+                "du2": 2,
+                "disso_label": "C"
+            },
+            {
+                "du1": 1,
+                "du2": 4,
+                "disso_label": "D"
+            },
+            {
+                "du1": 2,
+                "du2": 4,
+                "disso_label": "N"
+            }
+        ]
+    },
+    {
+        "message_id": "NAT_13354",
+        "message": "Ginuwine really went in on \u201c Differences . -->>\u201d My favorite is still \u201c Stingy \u201d though .",
+        "thought_label": [],
+        "dissonance_pairs": [
+            {
+                "du1": 0,
+                "du2": 1,
+                "disso_label": "D"
+            }
+        ]
+    },
+    {
+        "message_id": "NAT_13365",
+        "message": "UPS delivery men have no right -->>being that fine",
+        "thought_label": [],
+        "dissonance_pairs": [
+            {
+                "du1": 0,
+                "du2": 1,
+                "disso_label": "D"
+            }
+        ]
+    },
+    {
+        "message_id": "NAT_13394",
+        "message": "Aye , this quarantine is a little scary , -->>money is a concern sure , -->>but this staying home shit is dope as fuck . -->>Lol I prefer you guys on this medium .",
+        "thought_label": [],
+        "dissonance_pairs": [
+            {
+                "du1": 0,
+                "du2": 2,
+                "disso_label": "D"
+            },
+            {
+                "du1": 1,
+                "du2": 2,
+                "disso_label": "D"
+            }
+        ]
+    },
+    {
+        "message_id": "NAT_13400",
+        "message": "I realize -->>that -->>#MemorialDay -->>has evolved into thoughts of sunshine and cookouts and the early start to summer , -->>but one of my pet peeves has always been people -->>saying Happy Memorial Day . -->>It\u2019s a somber day of remembrance . -->>It\u2019s like saying Happy Pearl Harbor Day or Happy -->>9/11 -->>!",
+        "thought_label": [],
+        "dissonance_pairs": [
+            {
+                "du1": 3,
+                "du2": 4,
+                "disso_label": "D"
+            },
+            {
+                "du1": 5,
+                "du2": 8,
+                "disso_label": "N"
+            },
+            {
+                "du1": 1,
+                "du2": 2,
+                "disso_label": "N"
+            }
+        ]
+    },
+    {
+        "message_id": "NAT_13435",
+        "message": "Aye man . -->>This is not good ! -->>But I \u2019m cool with either result . -->>We got a game !",
+        "thought_label": [],
+        "dissonance_pairs": [
+            {
+                "du1": 1,
+                "du2": 3,
+                "disso_label": "D"
+            },
+            {
+                "du1": 0,
+                "du2": 1,
+                "disso_label": "C"
+            },
+            {
+                "du1": 0,
+                "du2": 3,
+                "disso_label": "N"
+            }
+        ]
+    },
+    {
+        "message_id": "NAT_13465",
+        "message": "I do this thing -->>where I get drunk asf -->>and invite people over -->>only to fall asleep lmfaoooo",
+        "thought_label": [],
+        "dissonance_pairs": [
+            {
+                "du1": 1,
+                "du2": 3,
+                "disso_label": "C"
+            },
+            {
+                "du1": 0,
+                "du2": 3,
+                "disso_label": "C"
+            },
+            {
+                "du1": 2,
+                "du2": 3,
+                "disso_label": "D"
+            }
+        ]
+    },
+    {
+        "message_id": "NAT_13511",
+        "message": "Coming from poverty . -->>Hitting the lottery",
+        "thought_label": [],
+        "dissonance_pairs": [
+            {
+                "du1": 0,
+                "du2": 1,
+                "disso_label": "D"
+            }
+        ]
+    },
+    {
+        "message_id": "NAT_13512",
+        "message": "The kid in elementary school PE class , -->>who was my partner -->>and held my feet to the ground -->>when doing sit ups -->>to make them more effective , -->>who i hated .... -->>Yeah . I \u2019m sorry dude . -->>I was wrong . -->>I need you back . -->>Please ? -->>#decadeslater",
+        "thought_label": [],
+        "dissonance_pairs": [
+            {
+                "du1": 1,
+                "du2": 5,
+                "disso_label": "D"
+            },
+            {
+                "du1": 5,
+                "du2": 7,
+                "disso_label": "D"
+            },
+            {
+                "du1": 5,
+                "du2": 8,
+                "disso_label": "D"
+            },
+            {
+                "du1": 7,
+                "du2": 10,
+                "disso_label": "N"
+            },
+            {
+                "du1": 8,
+                "du2": 10,
+                "disso_label": "N"
+            },
+            {
+                "du1": 0,
+                "du2": 1,
+                "disso_label": "C"
+            },
+            {
+                "du1": 2,
+                "du2": 3,
+                "disso_label": "C"
+            },
+            {
+                "du1": 2,
+                "du2": 4,
+                "disso_label": "C"
+            },
+            {
+                "du1": 4,
+                "du2": 8,
+                "disso_label": "N"
+            }
+        ]
+    },
+    {
+        "message_id": "NAT_13541",
+        "message": "\ud83d\udda4 -->>I have a zero - tolerance policy -->>for making fun of anyone\u2019s body type -->>\ud83d\udda4 -->>UwU -->>\ud83d\udda4",
+        "thought_label": [],
+        "dissonance_pairs": [
+            {
+                "du1": 1,
+                "du2": 0,
+                "disso_label": "D"
+            }
+        ]
+    },
+    {
+        "message_id": "NAT_13565",
+        "message": "When Things Happen To Me And I Get In My Moods Sometimes I Just Want To Be Left Alone -->>& I Just Need To Be Around People -->>That Can Understand That . -->>Like I \u2019ve Been Through A lot Of Shit In My Life With Just People In General I Get Overwhelmed -->>& Sometimes I Just Need A Mental Break",
+        "thought_label": [],
+        "dissonance_pairs": [
+            {
+                "du1": 1,
+                "du2": 4,
+                "disso_label": "D"
+            },
+            {
+                "du1": 0,
+                "du2": 2,
+                "disso_label": "C"
+            }
+        ]
+    },
+    {
+        "message_id": "NAT_13570",
+        "message": "So wait , -->>all it would have taken was -->>3 -->>more justices to side with Alito and Thomas ? . . -->>Is n\u2019t this why you forced through Justice Amy ? . . -->>Lol , your own people betrayed you -->>by actually doing their job",
+        "thought_label": [],
+        "dissonance_pairs": [
+            {
+                "du1": 0,
+                "du2": 1,
+                "disso_label": "N"
+            },
+            {
+                "du1": 1,
+                "du2": 3,
+                "disso_label": "C"
+            },
+            {
+                "du1": 3,
+                "du2": 5,
+                "disso_label": "D"
+            }
+        ]
+    },
+    {
+        "message_id": "NAT_13596",
+        "message": "my cousin was tripping -->>and i should be a better influence -->>but no i said -->>let \u2019s trip together",
+        "thought_label": [],
+        "dissonance_pairs": [
+            {
+                "du1": 0,
+                "du2": 2,
+                "disso_label": "N"
+            },
+            {
+                "du1": 1,
+                "du2": 2,
+                "disso_label": "D"
+            }
+        ]
+    },
+    {
+        "message_id": "NAT_13682",
+        "message": "To all the people -->>that wished me happy birthday , -->>thank you ! -->>If I have n\u2019t thanked you personally , -->>I will soon ! -->>Just completely hungover -->>and feel like shit ... LMAOOO",
+        "thought_label": [],
+        "dissonance_pairs": [
+            {
+                "du1": 4,
+                "du2": 5,
+                "disso_label": "C"
+            },
+            {
+                "du1": 5,
+                "du2": 6,
+                "disso_label": "C"
+            },
+            {
+                "du1": 2,
+                "du2": 5,
+                "disso_label": "N"
+            },
+            {
+                "du1": 2,
+                "du2": 6,
+                "disso_label": "D"
+            }
+        ]
+    },
+    {
+        "message_id": "NAT_13700",
+        "message": "Real question -->>why do you think -->>cause you have thousands of \u201c followers \u201d -->>that it makes you too good for us -->>who do n\u2019t ? -->>If social media was gone tomorrow -->>who would you be ?",
+        "thought_label": [],
+        "dissonance_pairs": [
+            {
+                "du1": 2,
+                "du2": 5,
+                "disso_label": "D"
+            },
+            {
+                "du1": 3,
+                "du2": 6,
+                "disso_label": "N"
+            },
+            {
+                "du1": 3,
+                "du2": 5,
+                "disso_label": "N"
+            },
+            {
+                "du1": 2,
+                "du2": 3,
+                "disso_label": "C"
+            }
+        ]
+    },
+    {
+        "message_id": "NAT_13705",
+        "message": "One thing bout a real one .. -->>we still real -->>after you disappoint us -->>\ud83d\udcaf",
+        "thought_label": [],
+        "dissonance_pairs": [
+            {
+                "du1": 2,
+                "du2": 3,
+                "disso_label": "D"
+            },
+            {
+                "du1": 1,
+                "du2": 2,
+                "disso_label": "C"
+            },
+            {
+                "du1": 0,
+                "du2": 1,
+                "disso_label": "C"
+            }
+        ]
+    },
+    {
+        "message_id": "NAT_13724",
+        "message": "If you briefly see random animal crossing photoset tweets from me -->>that are deleted a few moments later , -->>it \u2019s b / c I do n\u2019t know a better way -->>to download the photos to my phone -->>\ud83d\ude05",
+        "thought_label": [],
+        "dissonance_pairs": [
+            {
+                "du1": 1,
+                "du2": 3,
+                "disso_label": "D"
+            },
+            {
+                "du1": 1,
+                "du2": 4,
+                "disso_label": "N"
+            }
+        ]
+    },
+    {
+        "message_id": "NAT_13727",
+        "message": "What s the best way -->>to wake up someone -->>that has PTSD ? -->>Cuz I \u2019m pretty sure -->>that yelling \u201c HEY \u201d at them is not the way -->>to go -->>\ud83d\ude12\ud83d\ude12 -->>but yet here we are -->>and now my anxiety is going to be fucking awful all day -->>because of it so that s great",
+        "thought_label": [],
+        "dissonance_pairs": [
+            {
+                "du1": 4,
+                "du2": 7,
+                "disso_label": "D"
+            },
+            {
+                "du1": 5,
+                "du2": 7,
+                "disso_label": "N"
+            },
+            {
+                "du1": 5,
+                "du2": 8,
+                "disso_label": "N"
+            },
+            {
+                "du1": 6,
+                "du2": 7,
+                "disso_label": "C"
+            },
+            {
+                "du1": 8,
+                "du2": 9,
+                "disso_label": "C"
+            },
+            {
+                "du1": 6,
+                "du2": 9,
+                "disso_label": "N"
+            },
+            {
+                "du1": 7,
+                "du2": 8,
+                "disso_label": "C"
+            },
+            {
+                "du1": 0,
+                "du2": 1,
+                "disso_label": "N"
+            },
+            {
+                "du1": 1,
+                "du2": 2,
+                "disso_label": "N"
+            },
+            {
+                "du1": 1,
+                "du2": 4,
+                "disso_label": "C"
+            },
+            {
+                "du1": 2,
+                "du2": 4,
+                "disso_label": "N"
+            },
+            {
+                "du1": 4,
+                "du2": 8,
+                "disso_label": "C"
+            }
+        ]
+    },
+    {
+        "message_id": "NAT_13728",
+        "message": "When you\u2019re tired , -->>your eyes want to close . -->>When you\u2019re not , -->>your eyes want to stay open . -->>How can anyone still be undecided on this election ?",
+        "thought_label": [],
+        "dissonance_pairs": [
+            {
+                "du1": 1,
+                "du2": 3,
+                "disso_label": "D"
+            },
+            {
+                "du1": 3,
+                "du2": 4,
+                "disso_label": "D"
+            }
+        ]
+    },
+    {
+        "message_id": "NAT_13744",
+        "message": "I told Shyheim -->>when he live for work me and kyler do not move -->>\ud83e\udd23\ud83e\udd23\ud83e\udd23 -->>he talking about I can tell the house be the same -->>when i come back home -->>\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02 -->>nigga do nt do us",
+        "thought_label": [],
+        "dissonance_pairs": [
+            {
+                "du1": 1,
+                "du2": 4,
+                "disso_label": "N"
+            },
+            {
+                "du1": 4,
+                "du2": 6,
+                "disso_label": "N"
+            },
+            {
+                "du1": 1,
+                "du2": 3,
+                "disso_label": "C"
+            },
+            {
+                "du1": 2,
+                "du2": 5,
+                "disso_label": "C"
+            },
+            {
+                "du1": 2,
+                "du2": 6,
+                "disso_label": "D"
+            }
+        ]
+    },
+    {
+        "message_id": "NAT_13745",
+        "message": "Working at trh makes me want to slam my head through a brick wall . -->>Money nice tho :/",
+        "thought_label": [],
+        "dissonance_pairs": [
+            {
+                "du1": 0,
+                "du2": 1,
+                "disso_label": "D"
+            }
+        ]
+    },
+    {
+        "message_id": "NAT_13775",
+        "message": "Always a good day -->>when your DraftKings quarterback gets benched",
+        "thought_label": [],
+        "dissonance_pairs": [
+            {
+                "du1": 0,
+                "du2": 1,
+                "disso_label": "D"
+            }
+        ]
+    },
+    {
+        "message_id": "NAT_13876",
+        "message": "Why are you such a vile human being [ USER ] ? ! -->>Is this the only way -->>you think -->>you can get your name in the news - -->>by making fun of the most sensitive of topics ? -->>Why not try doing good for a change ? -->>See how that makes you feel . -->>The only bully worse than you is Orange Man .",
+        "thought_label": [],
+        "dissonance_pairs": [
+            {
+                "du1": 4,
+                "du2": 5,
+                "disso_label": "D"
+            },
+            {
+                "du1": 4,
+                "du2": 7,
+                "disso_label": "C"
+            },
+            {
+                "du1": 5,
+                "du2": 6,
+                "disso_label": "C"
+            },
+            {
+                "du1": 5,
+                "du2": 7,
+                "disso_label": "C"
+            },
+            {
+                "du1": 6,
+                "du2": 7,
+                "disso_label": "C"
+            }
+        ]
+    },
+    {
+        "message_id": "NAT_13931",
+        "message": "Pop smoke literally gets me in such a good mood -->>\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d -->>I rlly wish -->>I could \u2019ve met him . -->>\ud83d\ude29",
+        "thought_label": [],
+        "dissonance_pairs": [
+            {
+                "du1": 0,
+                "du2": 4,
+                "disso_label": "D"
+            }
+        ]
+    },
+    {
+        "message_id": "NAT_14171",
+        "message": "I m so thankful -->>but deep down i wanna sell dope for a lil extra -->>\ud83d\ude02\ud83d\ude02",
+        "thought_label": [],
+        "dissonance_pairs": [
+            {
+                "du1": 0,
+                "du2": 1,
+                "disso_label": "D"
+            }
+        ]
+    },
+    {
+        "message_id": "NAT_14244",
+        "message": "I always thought -->>it was odd seeing people -->>that have lots and lots to show for , -->>but no one is ever clear as to what exactly it is that they do ... -->>Not that it \u2019s my business or anyone else \u2019s , but -->>\ud83d\ude02\ud83d\ude02\ud83d\ude02",
+        "thought_label": [],
+        "dissonance_pairs": [
+            {
+                "du1": 0,
+                "du2": 2,
+                "disso_label": "N"
+            },
+            {
+                "du1": 0,
+                "du2": 3,
+                "disso_label": "N"
+            },
+            {
+                "du1": 1,
+                "du2": 2,
+                "disso_label": "C"
+            },
+            {
+                "du1": 2,
+                "du2": 3,
+                "disso_label": "D"
+            }
+        ]
+    },
+    {
+        "message_id": "NAT_14245",
+        "message": "Still feel like crap -->>HOWEVER I \u2019m -->>still getting up -->>to get this damn -->>\ud83d\udcb0#WordsFromTheDr#MondayMornings",
+        "thought_label": [],
+        "dissonance_pairs": [
+            {
+                "du1": 0,
+                "du2": 2,
+                "disso_label": "D"
+            }
+        ]
+    },
+    {
+        "message_id": "NAT_14305",
+        "message": "You used to be the best thing -->>that happened to me",
+        "thought_label": [],
+        "dissonance_pairs": [
+            {
+                "du1": 0,
+                "du2": 1,
+                "disso_label": "D"
+            }
+        ]
+    },
+    {
+        "message_id": "NAT_14316",
+        "message": "I have to wake up in -->>3 -->>hours -->>but am wide awake -->>eating sun chips in my bed . -->>Help me",
+        "thought_label": [],
+        "dissonance_pairs": [
+            {
+                "du1": 0,
+                "du2": 3,
+                "disso_label": "D"
+            }
+        ]
+    },
+    {
+        "message_id": "NAT_14329",
+        "message": "The kind of sports cards -->>which I dislike the most -->>are reprint cards . -->>The kind of sports cards -->>which I like the most -->>are low numbered parallels of base cards .. . -->>#collect#thehobby#linguasportscards",
+        "thought_label": [],
+        "dissonance_pairs": [
+            {
+                "du1": 0,
+                "du2": 4,
+                "disso_label": "C"
+            },
+            {
+                "du1": 1,
+                "du2": 4,
+                "disso_label": "D"
+            },
+            {
+                "du1": 0,
+                "du2": 4,
+                "disso_label": "C"
+            }
+        ]
+    },
+    {
+        "message_id": "NAT_14494",
+        "message": "We are so much more than just pretty bodies -->>to look at -->>and gawk over . -->>I can care less -->>about what you look like . -->>Let me see your soul . -->>Let me see -->>how your face lights up -->>when you talk about something -->>you \u2019re passionate about . -->>Let me see YOU .",
+        "thought_label": [],
+        "dissonance_pairs": [
+            {
+                "du1": 4,
+                "du2": 5,
+                "disso_label": "D"
+            },
+            {
+                "du1": 4,
+                "du2": 8,
+                "disso_label": "N"
+            },
+            {
+                "du1": 5,
+                "du2": 8,
+                "disso_label": "C"
+            },
+            {
+                "du1": 6,
+                "du2": 8,
+                "disso_label": "N"
+            },
+            {
+                "du1": 7,
+                "du2": 8,
+                "disso_label": "C"
+            }
+        ]
+    },
+    {
+        "message_id": "NAT_22315",
+        "message": "Max generally uses he / him pronouns ,    -->>  but as a castrati does not have strong opinions on pronouns    -->>  as long as they are used politely .    -->>  However using she / her    -->>  consistently because she\u2019s a small dog is not acceptable .",
+        "thought_label": [],
+        "dissonance_pairs": [
+            {
+                "du1": 0,
+                "du2": 1,
+                "disso_label": "D"
+            },
+            {
+                "du1": 0,
+                "du2": 2,
+                "disso_label": "N"
+            },
+            {
+                "du1": 0,
+                "du2": 3,
+                "disso_label": "N"
+            }
+        ]
+    },
+    {
+        "message_id": "NAT_22491",
+        "message": "Wrong is wrong    -->>  even if everyone is doing it .    -->>  Right is right    -->>  even if no one is doing it .    -->>  #QuotesFromTheDon",
+        "thought_label": [],
+        "dissonance_pairs": [
+            {
+                "du1": 0,
+                "du2": 1,
+                "disso_label": "C"
+            },
+            {
+                "du1": 0,
+                "du2": 2,
+                "disso_label": "C"
+            },
+            {
+                "du1": 0,
+                "du2": 3,
+                "disso_label": "D"
+            },
+            {
+                "du1": 1,
+                "du2": 2,
+                "disso_label": "C"
+            },
+            {
+                "du1": 2,
+                "du2": 3,
+                "disso_label": "C"
+            }
+        ]
+    },
+    {
+        "message_id": "NAT_22509",
+        "message": "My impression of Bill Parcells was he was a good coach ,    -->>  but damn this guy can be an a**hole    -->>  #TwoBills#BillShx#ThreeBills",
+        "thought_label": [],
+        "dissonance_pairs": [
+            {
+                "du1": 0,
+                "du2": 1,
+                "disso_label": "D"
+            }
+        ]
+    },
+    {
+        "message_id": "NAT_23211",
+        "message": "Coming to Austin , okay Bye [USER]    -->>  At wrk .... trynna figure out what exactly i m doing for NewYears \u201d",
+        "thought_label": [],
+        "dissonance_pairs": [
+            {
+                "du1": 0,
+                "du2": 1,
+                "disso_label": "D"
+            }
+        ]
+    },
+    {
+        "message_id": "NAT_23219",
+        "message": "And ,    -->>  anticipating the    -->>  if Trump is weak ,    -->>  why are you fighting against his policies so hard?nThe short answer is that Trump is weak    -->>  BECAUSE people are fighting against his policies so hard .    -->>  ( cont )",
+        "thought_label": [],
+        "dissonance_pairs": [
+            {
+                "du1": 0,
+                "du2": 3,
+                "disso_label": "N"
+            },
+            {
+                "du1": 0,
+                "du2": 4,
+                "disso_label": "N"
+            },
+            {
+                "du1": 1,
+                "du2": 3,
+                "disso_label": "N"
+            },
+            {
+                "du1": 1,
+                "du2": 4,
+                "disso_label": "N"
+            },
+            {
+                "du1": 2,
+                "du2": 3,
+                "disso_label": "D"
+            },
+            {
+                "du1": 2,
+                "du2": 4,
+                "disso_label": "D"
+            },
+            {
+                "du1": 3,
+                "du2": 4,
+                "disso_label": "C"
+            }
+        ]
+    },
+    {
+        "message_id": "NAT_23412",
+        "message": "I hate posts    -->>  that tell me what to do .    -->>   \u2019   Click like for this ... click share    -->>  if you believe    -->>   \u2019   I\u2019m grown ...    -->>  I will like what the hell I want to .",
+        "thought_label": [],
+        "dissonance_pairs": [
+            {
+                "du1": 1,
+                "du2": 5,
+                "disso_label": "D"
+            },
+            {
+                "du1": 3,
+                "du2": 5,
+                "disso_label": "N"
+            }
+        ]
+    }
+]
